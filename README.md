@@ -15,7 +15,7 @@
   <tr>
     <td class="tg-yw4l">CENTER ON KNOWLEDGE GRAPHS</td>
     <td class="tg-yw4l">University of Southern California</td>
-    <td class="tg-yw4l">[Prof. Hans Chalupsky](https://www.isi.edu/directory/hans/)</td>
+    <td class="tg-yw4l">[Prof. Hans Chalupsky]https://www.isi.edu/directory/hans/</td>
     <td class="tg-yw4l">USA</td>
     <td class="tg-yw4l">https://usc-isi-i2.github.io/</td>
    <tr>
@@ -29,7 +29,7 @@
     <td class="tg-yw4l">ZJUKG</td>
     <td class="tg-yw4l">Zhejiang University</td>
     <td class="tg-yw4l">Prof. Huajun Chen</td>
-    <td class="tg-yw4l"CN</td>
+    <td class="tg-yw4l">CN</td>
     <td class="tg-yw4l">http://zjukg.org/a</td>
   </tr>
       
