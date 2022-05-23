@@ -33,11 +33,25 @@
     <td class="tg-yw4l">http://keg.cs.tsinghua.edu.cn/</td>
   </tr>
   <tr>
+    <td class="tg-yw4l">Knowledge Representation and Reasoning Group</td>
+    <td class="tg-yw4l">Zhejiang University</td>
+    <td class="tg-yw4l">Prof. Frank van Harmelen</td>
+    <td class="tg-yw4l">NL</td>
+    <td class="tg-yw4l">https://krr.cs.vu.nl/</td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">ZJUKG(Knowledge.Language.Graphs)</td>
     <td class="tg-yw4l">Zhejiang University</td>
     <td class="tg-yw4l">Prof. Huajun Chen</td>
     <td class="tg-yw4l">CN</td>
     <td class="tg-yw4l">http://zjukg.org/</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">Knowledge Graphs Lab</td>
+    <td class="tg-yw4l">Vienna University of Technology</td>
+    <td class="tg-yw4l">Dr. Emanuel Sallinger</td>
+    <td class="tg-yw4l">A</td>
+    <td class="tg-yw4l">https://kg.dbai.tuwien.ac.at/</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Knowledge Works Research Laboratory</td>
@@ -52,6 +66,20 @@
     <td class="tg-yw4l">Prof. Xuanjing Huang</td>
     <td class="tg-yw4l">CN</td>
     <td class="tg-yw4l">http://www.fudan-disc.com/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Information Service Engineering Research Group</td>
+    <td class="tg-yw4l">Karlsruhe Institute of Technology</td>
+    <td class="tg-yw4l">Prof. Harald Sack</td>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Intelligent Data Engineering Lab (INDElab)</td>
+    <td class="tg-yw4l">University of Amsterdam</td>
+    <td class="tg-yw4l">Prof.Paul Groth</td>
+    <td class="tg-yw4l">NL</td>
+    <td class="tg-yw4l">https://indelab.org/</td>
   </tr>
    <tr>
     <td class="tg-yw4l">Websoft</td>
