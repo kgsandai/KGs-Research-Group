@@ -33,7 +33,7 @@
     <td class="tg-yw4l">http://keg.cs.tsinghua.edu.cn/</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">ZJUKG</td>
+    <td class="tg-yw4l">ZJUKG(Knowledge.Language.Graphs)</td>
     <td class="tg-yw4l">Zhejiang University</td>
     <td class="tg-yw4l">Prof. Huajun Chen</td>
     <td class="tg-yw4l">CN</td>
