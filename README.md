@@ -30,7 +30,7 @@
     <td class="tg-yw4l">Tsinghua University</td>
     <td class="tg-yw4l">Prof. Jie Tang</td>
     <td class="tg-yw4l">CN</td>
-    <td class="tg-yw4l">http://keg.cs.tsinghua.edu.cn/(In Chinese)</td>
+    <td class="tg-yw4l">http://keg.cs.tsinghua.edu.cn/</td>
   </tr>
   <tr>
     <td class="tg-yw4l">ZJUKG</td>
