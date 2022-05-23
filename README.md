@@ -50,7 +50,7 @@
     <td class="tg-yw4l">Knowledge Graphs Lab</td>
     <td class="tg-yw4l">Vienna University of Technology</td>
     <td class="tg-yw4l">Dr. Emanuel Sallinger</td>
-    <td class="tg-yw4l">A</td>
+    <td class="tg-yw4l">AT</td>
     <td class="tg-yw4l">https://kg.dbai.tuwien.ac.at/</td>
   </tr>
   <tr>
@@ -80,6 +80,13 @@
     <td class="tg-yw4l">Prof.Paul Groth</td>
     <td class="tg-yw4l">NL</td>
     <td class="tg-yw4l">https://indelab.org/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Semantic Technology Laboratory(STLab)</td>
+    <td class="tg-yw4l">University of Bologna & Italian National Research Council (CNR)</td>
+    <td class="tg-yw4l">Prof.Aldo Gangemi/td>
+    <td class="tg-yw4l">IT</td>
+    <td class="tg-yw4l">http://stlab.istc.cnr.it/</td>
   </tr>
    <tr>
     <td class="tg-yw4l">Websoft</td>
