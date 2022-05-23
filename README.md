@@ -84,7 +84,7 @@
   <tr>
     <td class="tg-yw4l">Semantic Technology Laboratory(STLab)</td>
     <td class="tg-yw4l">University of Bologna & Italian National Research Council (CNR)</td>
-    <td class="tg-yw4l">Prof.Aldo Gangemi<td>
+    <td class="tg-yw4l">Prof.Aldo Gangemi</td>
     <td class="tg-yw4l">IT</td>
     <td class="tg-yw4l">http://stlab.istc.cnr.it/</td>
   </tr>
