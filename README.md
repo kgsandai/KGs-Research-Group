@@ -7,13 +7,13 @@
   <tr>
     <th class="tg-yw4l"><b>Team Name</b></th>
      <th class="tg-yw4l"><b>Affiliation</b></th>
-    <th class="tg-yw4l"><b>Head</b></th>
-    <th class="tg-yw4l"><b>Countury</b></th>
-    <th class="tg-yw4l"><b>Link</b></th>
+    <th class="tg-yw4l"><b>Head/PI</b></th>
+    <th class="tg-yw4l"><b>Country</b></th>
+    <th class="tg-yw4l"><b>Website</b></th>
   </tr>
   
   <tr>
-    <td class="tg-yw4l">CENTER ON KNOWLEDGE GRAPHS</td>
+    <td class="tg-yw4l">Center on Knowledge Graph</td>
     <td class="tg-yw4l">University of Southern California</td>
     <td class="tg-yw4l">Prof. Hans Chalupsky</td>
     <td class="tg-yw4l">USA</td>
@@ -26,11 +26,39 @@
     <td class="tg-yw4l">https://www.airc.aist.go.jp/en/dkirt/</td>
   </tr>
   <tr>
+    <td class="tg-yw4l">Knowledge Engineering Group</td>
+    <td class="tg-yw4l">Tsinghua University</td>
+    <td class="tg-yw4l">Prof. Jie Tang</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">http://keg.cs.tsinghua.edu.cn/(In Chinese)</td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">ZJUKG</td>
     <td class="tg-yw4l">Zhejiang University</td>
     <td class="tg-yw4l">Prof. Huajun Chen</td>
     <td class="tg-yw4l">CN</td>
-    <td class="tg-yw4l">http://zjukg.org/a</td>
+    <td class="tg-yw4l">http://zjukg.org/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Knowledge Works Research Laboratory</td>
+    <td class="tg-yw4l">Fudan University</td>
+    <td class="tg-yw4l">Prof. Yanghua Xiao</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">http://kw.fudan.edu.cn/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Fudan Data Intelligence and Social Computing Lab</td>
+    <td class="tg-yw4l">Fudan University</td>
+    <td class="tg-yw4l">Prof. Xuanjing Huang</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">http://www.fudan-disc.com/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Websoft</td>
+    <td class="tg-yw4l">NanJing University</td>
+    <td class="tg-yw4l">Prof. Wei Hu</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">http://ws.nju.edu.cn/</td>
   </tr>
       
  </table> 
