@@ -95,6 +95,13 @@
     <td class="tg-yw4l">CN</td>
     <td class="tg-yw4l">http://ws.nju.edu.cn/</td>
   </tr>
+    <tr>
+    <td class="tg-yw4l">Discovery Lab</td>
+    <td class="tg-yw4l">Elsevier</td>
+    <td class="tg-yw4l">Dr. Rinke Hoekstra</td>
+    <td class="tg-yw4l">NL</td>
+    <td class="tg-yw4l">https://discoverylab.ai/</td>
+  </tr>
       
  </table> 
 
