@@ -179,6 +179,20 @@
     <td class="tg-yw4l">IN</td>
     <td class="tg-yw4l">https://nlp-lab.org/</td>
   </tr>
+   <tr>
+    <td class="tg-yw4l">Semantic Systems Group (SEMS) </td>
+    <td class="tg-yw4l">University of Hamburg</td>
+    <td class="tg-yw4l">Prof. Ricardo Usbeck </td>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">https://www.inf.uni-hamburg.de/en/inst/ab/sems/</td>
+  </tr>
+     <tr>
+    <td class="tg-yw4l">Knowledge Technology Research Group </td>
+    <td class="tg-yw4l">University of Hamburg</td>
+    <td class="tg-yw4l">Prof. Stefan Wermter </td>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l"https://www.inf.uni-hamburg.de/en/inst/ab/wtm/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
