@@ -1,4 +1,4 @@
-# KGs-Research-Group
+# Knowledge Graph Research Group
 - This is a collection of knowledge graph research group all over the world that will be updated periodically.
 
 [![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Research-Team?color=blue)
