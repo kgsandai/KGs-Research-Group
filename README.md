@@ -103,7 +103,7 @@
     <td class="tg-yw4l">https://discoverylab.ai/</td>
   </tr>
     <tr>
-    <td class="tg-yw4l> Knowledge Graphs Interest Group </td>
+    <td class="tg-yw4l>Knowledge Graphs Interest Group </td>
     <td class="tg-yw4l">Alan Turing Institute</td>
     <td class="tg-yw4l">Dr. Jeff Pan</td>
     <td class="tg-yw4l">UK</td>
