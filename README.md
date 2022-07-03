@@ -186,12 +186,12 @@
     <td class="tg-yw4l">DE</td>
     <td class="tg-yw4l">https://www.inf.uni-hamburg.de/en/inst/ab/sems/</td>
   </tr>
-     <tr>
+   <tr>
     <td class="tg-yw4l">Knowledge Technology Research Group </td>
     <td class="tg-yw4l">University of Hamburg</td>
     <td class="tg-yw4l">Prof. Stefan Wermter </td>
     <td class="tg-yw4l">DE</td>
-    <td class="tg-yw4l"https://www.inf.uni-hamburg.de/en/inst/ab/wtm/</td>
+    <td class="tg-yw4l">https://www.inf.uni-hamburg.de/en/inst/ab/wtm/</td>
   </tr>
  </table> 
 
