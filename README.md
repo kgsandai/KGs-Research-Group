@@ -116,6 +116,69 @@
     <td class="tg-yw4l">DE</td>
     <td class="tg-yw4l">https://dice-research.org/</td>
   </tr>
+   <tr>
+    <td class="tg-yw4l">Knowledge Management Group </td>
+    <td class="tg-yw4l">Vienna University of Economics and Business</td>
+    <td class="tg-yw4l">Prof. Alexander Kaiser</td>
+    <td class="tg-yw4l">AT</td>
+    <td class="tg-yw4l">https://www.wu.ac.at/en/kbm/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Data Management Lab </td>
+    <td class="tg-yw4l">University of Haifa </td>
+    <td class="tg-yw4l">Dr. Tomer Sagi</td>
+    <td class="tg-yw4l">IL</td>
+    <td class="tg-yw4l">https://sites.google.com/edu.haifa.ac.il/data-management-lab</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Knowledge-Based Systems Group</td>
+    <td class="tg-yw4l">RWTH Aachen University </td>
+    <td class="tg-yw4l">Prof. Gerhard Lakemeyer </td>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">https://www.kbsg.rwth-aachen.de/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Knowledge Lab</td>
+    <td class="tg-yw4l">The University of Chicago</td>
+    <td class="tg-yw4l">Prof. James A. Evans </td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">https://www.kbsg.rwth-aachen.de/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Data Science Lab</td>
+    <td class="tg-yw4l">JD.com</td>
+    <td class="tg-yw4l">Dr. Hongshen Chen </td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">https://datascience.jd.com/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Knowledge Discovery Laboratory (KDL) </td>
+    <td class="tg-yw4l">University of Massachusetts Amherst</td>
+    <td class="tg-yw4l">Prof. David Jensen </td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">https://kdl.cs.umass.edu/</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">Graph-Oriented AppLications Research Lab</td>
+    <td class="tg-yw4l">Rochester Institute of Technology</td>
+    <td class="tg-yw4l">Dr. Carlos R. Rivero </td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">https://www.cs.rit.edu/~crr/goal/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Laboratory of Machine Intelligence Research and Applications</td>
+    <td class="tg-yw4l">University of Science and Technology of China</td>
+    <td class="tg-yw4l">Prof. Jie Wang </td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">https://miralab.ai/</td>
+  </tr>
+     <tr>
+    <td class="tg-yw4l">Natural Language Processing Lab (NLP-Lab) </td>
+    <td class="tg-yw4l">Indiana University at Bloomington</td>
+    <td class="tg-yw4l">Dr. Damir Cavar </td>
+    <td class="tg-yw4l">IN</td>
+    <td class="tg-yw4l">https://nlp-lab.org/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
