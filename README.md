@@ -95,22 +95,22 @@
     <td class="tg-yw4l">CN</td>
     <td class="tg-yw4l">http://ws.nju.edu.cn/</td>
   </tr>
-    <tr>
+  <tr>
     <td class="tg-yw4l">Discovery Lab</td>
     <td class="tg-yw4l">Elsevier</td>
     <td class="tg-yw4l">Dr. Rinke Hoekstra</td>
     <td class="tg-yw4l">NL</td>
     <td class="tg-yw4l">https://discoverylab.ai/</td>
   </tr>
-    <tr>
-    <td class="tg-yw4l>Knowledge Graphs Interest Group </td>
+  <tr>
+    <td class="tg-yw4l">Knowledge Graphs Interest Group </td>
     <td class="tg-yw4l">Alan Turing Institute</td>
     <td class="tg-yw4l">Dr. Jeff Pan</td>
     <td class="tg-yw4l">UK</td>
     <td class="tg-yw4l">https://www.turing.ac.uk/research/interest-groups/knowledge-graphs/</td>
   </tr>
     <tr>
-    <td class="tg-yw4l> Data Science (DICE) Group </td>
+    <td class="tg-yw4l"> Data Science (DICE) Group </td>
     <td class="tg-yw4l">Paderborn University</td>
     <td class="tg-yw4l">Prof. Axel-Cyrille Ngonga Ngomo</td>
     <td class="tg-yw4l">DE</td>
