@@ -7,7 +7,7 @@
   <tr>
     <th class="tg-yw4l"><b>Team Name</b></th>
      <th class="tg-yw4l"><b>Affiliation</b></th>
-    <th class="tg-yw4l"><b>Head/PI</b></th>
+    <th class="tg-yw4l"><b>Head/PI/Organizers</b></th>
     <th class="tg-yw4l"><b>Country</b></th>
     <th class="tg-yw4l"><b>Website</b></th>
   </tr>
@@ -102,7 +102,20 @@
     <td class="tg-yw4l">NL</td>
     <td class="tg-yw4l">https://discoverylab.ai/</td>
   </tr>
-      
+    <tr>
+    <td class="tg-yw4l> Knowledge Graphs Interest Group </td>
+    <td class="tg-yw4l">Alan Turing Institute</td>
+    <td class="tg-yw4l">Dr. Jeff Pan</td>
+    <td class="tg-yw4l">UK</td>
+    <td class="tg-yw4l">https://www.turing.ac.uk/research/interest-groups/knowledge-graphs/</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l> Data Science (DICE) Group </td>
+    <td class="tg-yw4l">Paderborn University</td>
+    <td class="tg-yw4l">Prof. Axel-Cyrille Ngonga Ngomo</td>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">https://dice-research.org/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
