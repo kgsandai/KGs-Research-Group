@@ -77,14 +77,14 @@
   <tr>
     <td class="tg-yw4l">Intelligent Data Engineering Lab (INDElab)</td>
     <td class="tg-yw4l">University of Amsterdam</td>
-    <td class="tg-yw4l">Prof.Paul Groth</td>
+    <td class="tg-yw4l">Prof. Paul Groth</td>
     <td class="tg-yw4l">NL</td>
     <td class="tg-yw4l">https://indelab.org/</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Semantic Technology Laboratory(STLab)</td>
     <td class="tg-yw4l">University of Bologna & Italian National Research Council (CNR)</td>
-    <td class="tg-yw4l">Prof.Aldo Gangemi</td>
+    <td class="tg-yw4l">Prof. Aldo Gangemi</td>
     <td class="tg-yw4l">IT</td>
     <td class="tg-yw4l">http://stlab.istc.cnr.it/</td>
   </tr>
@@ -193,6 +193,70 @@
     <td class="tg-yw4l">DE</td>
     <td class="tg-yw4l">https://www.inf.uni-hamburg.de/en/inst/ab/wtm/</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Knowledge Representation and Reasoning (KRR) Research Group </td>
+    <td class="tg-yw4l">Cardiff University</td>
+    <td class="tg-yw4l">Prof. Steven Schockaert </td>
+    <td class="tg-yw4l">UK</td>
+    <td class="tg-yw4l">https://krr-cu.github.io/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Semantic Web Group </td>
+    <td class="tg-yw4l">Linköping University</td>
+    <td class="tg-yw4l">Prof. Henrik Eriksson </td>
+    <td class="tg-yw4l">SE</td>
+    <td class="tg-yw4l">https://www.ida.liu.se/research/semanticweb/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"> Scholarly Knowledge Mining (SKM) </td>
+    <td class="tg-yw4l">The Open University</td>
+    <td class="tg-yw4l">Prof. Enrico Motta </td>
+    <td class="tg-yw4l">UK</td>
+    <td class="tg-yw4l">https://skm.kmi.open.ac.uk/</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">Data Semantics (DaSe) Laboratory </td>
+    <td class="tg-yw4l">Kansas State University</td>
+    <td class="tg-yw4l">Prof. Pascal Hitzler </td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">https://daselab.cs.ksu.edu/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Computational Logic (CL) Group </td>
+    <td class="tg-yw4l">Dresden University of Technology</td>
+    <td class="tg-yw4l">Prof. Sebastian Rudolph </td>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">https://iccl.inf.tu-dresden.de/web/Computational_Logic/en/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Data & Knowledge Engineering Research Group </td>
+    <td class="tg-yw4l">Heine Center for Artificial Intelligence & Data Science (HeiCAD)</td>
+    <td class="tg-yw4l">Prof. Stefan Dietze </td>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">https://www.cs.hhu.de/en/research-groups/data-knowledge-engineering/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Department of Distributed System (DDS) Team</td>
+    <td class="tg-yw4l">Computer and Automation Research Institute of the Hungarian Academy of Sciences</td>
+    <td class="tg-yw4l">Prof. László Kovács </td>
+    <td class="tg-yw4l">HU</td>
+    <td class="tg-yw4l">https://dsd.sztaki.hu/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Data, Intelligence and Graphs (DIG) Team </td>
+    <td class="tg-yw4l">Télécom Paris</td>
+    <td class="tg-yw4l">Prof. Talel Abdessalems </td>
+    <td class="tg-yw4l">FR</td>
+    <td class="tg-yw4l">https://dig.telecom-paristech.fr/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Logic and Learning (LL) Group </td>
+    <td class="tg-yw4l">University of Bergen</td>
+    <td class="tg-yw4l">Dr. Ana Ozaki </td>
+    <td class="tg-yw4l">NO</td>
+    <td class="tg-yw4l">https://logiclearning.w.uib.no/</td>
+  </tr>
+  
  </table> 
 
 This work is licensed under a
