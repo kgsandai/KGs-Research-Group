@@ -7,7 +7,7 @@
   <tr>
     <th class="tg-yw4l"><b>Team Name</b></th>
      <th class="tg-yw4l"><b>Affiliation</b></th>
-    <th class="tg-yw4l"><b>Head/PI/Organizers</b></th>
+    <th class="tg-yw4l"><b>Head/PI/Director</b></th>
     <th class="tg-yw4l"><b>Country</b></th>
     <th class="tg-yw4l"><b>Website</b></th>
   </tr>
@@ -201,6 +201,13 @@
     <td class="tg-yw4l">https://krr-cu.github.io/</td>
   </tr>
    <tr>
+    <td class="tg-yw4l">Internet Technology and Data Science Lab (IDLAB)</td>
+    <td class="tg-yw4l">Ghent University</td>
+    <td class="tg-yw4l">Prof. Piet Demeester </td>
+    <td class="tg-yw4l">BE</td>
+    <td class="tg-yw4l">https://www.ugent.be/ea/idlab/</td>
+  </tr>
+   <tr>
     <td class="tg-yw4l">Semantic Web Group </td>
     <td class="tg-yw4l">Linköping University</td>
     <td class="tg-yw4l">Prof. Henrik Eriksson </td>
@@ -256,7 +263,20 @@
     <td class="tg-yw4l">NO</td>
     <td class="tg-yw4l">https://logiclearning.w.uib.no/</td>
   </tr>
-  
+  <tr>
+    <td class="tg-yw4l">Declarative Languages and Artificial Intelligence section of Computer Science (DTAI) Group </td>
+    <td class="tg-yw4l">KU Leuven</td>
+    <td class="tg-yw4l">Prof. Hendrik Blockeel </td>
+    <td class="tg-yw4l">BE</td>
+    <td class="tg-yw4l">https://wms.cs.kuleuven.be/dtai/</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">SIRIUS Centre for Scalable Data Access</td>
+    <td class="tg-yw4l">University of Oslo</td>
+    <td class="tg-yw4l">Prof. Arild Waaler </td>
+    <td class="tg-yw4l">NO</td>
+    <td class="tg-yw4l">https://sirius-labs.no/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
