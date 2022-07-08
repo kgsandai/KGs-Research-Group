@@ -277,6 +277,20 @@
     <td class="tg-yw4l">NO</td>
     <td class="tg-yw4l">https://sirius-labs.no/</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Graphs for Inferences on Knowledge(GraphIK) Team</td>
+    <td class="tg-yw4l">University of Montpellier</td>
+    <td class="tg-yw4l">Prof. Marie-Laure Mugnier </td>
+    <td class="tg-yw4l">FR</td>
+    <td class="tg-yw4l">https://team.inria.fr/graphik/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Distributed Data Management(GDD) Team</td>
+    <td class="tg-yw4l">University of Nantes</td>
+    <td class="tg-yw4l">Dr. Hala Skaf-Molli</td>
+    <td class="tg-yw4l">FR</td>
+    <td class="tg-yw4l">https://sites.google.com/site/gddlina/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
