@@ -403,6 +403,76 @@
     <td class="tg-yw4l">AU</td>
     <td class="tg-yw4l">https://graphlabanu.github.io/</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Data Integration and Knowledge Discovery Lab</td>
+    <td class="tg-yw4l">University of Central Florida</td>
+    <td class="tg-yw4l">Dr. Haiyan Nancy Hu</td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">http://hulab.ucf.edu/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Data Science and Knowledge Discovery Lab</td>
+    <td class="tg-yw4l">University of Technology Sydney</td>
+    <td class="tg-yw4l">Dr. Ling Chen</td>
+    <td class="tg-yw4l">AU</td>
+    <td class="tg-yw4l">https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence/research/data-science-and-knowledge-discovery-lab/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Knowledge Discovery and Data Mining Laboratory</td>
+    <td class="tg-yw4l">National Research Council of Italy </td>
+    <td class="tg-yw4l">Prof. Fosca Giannotti</td>
+    <td class="tg-yw4l">IT</td>
+    <td class="tg-yw4l">https://kdd.isti.cnr.it/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Knowledge Discovery & Data Science (KDD)</td>
+    <td class="tg-yw4l">National University of Computer and Emerging Sciences</td>
+    <td class="tg-yw4l">Dr. Kifayat Ullah Khan Alizai</td>
+    <td class="tg-yw4l">PK</td>
+    <td class="tg-yw4l">http://isb.nu.edu.pk/kdd/index.php/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Data Science and Machine Intelligence (DSMI)</td>
+    <td class="tg-yw4l">University of Technology Sydney</td>
+    <td class="tg-yw4l">Prof. Guandong Xu</td>
+    <td class="tg-yw4l">AU</td>
+    <td class="tg-yw4l">http://dsmi.tech/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Data Intelligence Lab</td>
+    <td class="tg-yw4l">University of Hong Kong</td>
+    <td class="tg-yw4l">Dr. Chao Huang</td>
+    <td class="tg-yw4l">HK</td>
+    <td class="tg-yw4l">https://sites.google.com/view/chaoh/group-join-us/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Data Analysis and Knowledge Discovery Laboratory (DAKDL)</td>
+    <td class="tg-yw4l">Kasetsart University</td>
+    <td class="tg-yw4l">Dr. Kitsana Waiyamai</td>
+    <td class="tg-yw4l">TH</td>
+    <td class="tg-yw4l">http://kdl.cpe.ku.ac.th/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Data Science and Engineering Laboratory</td>
+    <td class="tg-yw4l">Auburn University</td>
+    <td class="tg-yw4l">Prof. Wei-Shinn Ku</td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">https://auburn.edu/academic/engineering/dslab/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Service & Knowledge Lab</td>
+    <td class="tg-yw4l">Ulsan National Institute of Science and Technology</td>
+    <td class="tg-yw4l">Dr. Chiehyeon Lim</td>
+    <td class="tg-yw4l">KR</td>
+    <td class="tg-yw4l">https://service.unist.ac.kr/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Knowledge Discovery and Data Mining Research Lab (KDDM)</td>
+    <td class="tg-yw4l">University of Alabama at Birmingham</td>
+    <td class="tg-yw4l">Dr. Chengcui Zhang</td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">https://kddm.github.io/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
