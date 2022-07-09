@@ -235,6 +235,13 @@
     <td class="tg-yw4l">DE</td>
     <td class="tg-yw4l">https://iccl.inf.tu-dresden.de/web/Computational_Logic/en/</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">TJUDB Group</td>
+    <td class="tg-yw4l">Tianjin University</td>
+    <td class="tg-yw4l">Prof. Xin Wang</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">http://www.tjudb.cn/dbgroup/</td>
+  </tr>
    <tr>
     <td class="tg-yw4l">Data & Knowledge Engineering Research Group </td>
     <td class="tg-yw4l">Heine Center for Artificial Intelligence & Data Science (HeiCAD)</td>
@@ -354,12 +361,47 @@
     <td class="tg-yw4l">IT</td>
     <td class="tg-yw4l">http://lacam.di.uniba.it/</td>
   </tr>
-    <tr>
+  <tr>
     <td class="tg-yw4l">The Data and Web Science Group</td>
     <td class="tg-yw4l">University of Mannheim</td>
     <td class="tg-yw4l">Prof. Christian Bizer</td>
     <td class="tg-yw4l">DE</td>
     <td class="tg-yw4l">https://www.uni-mannheim.de/dws/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Knowledge Representation and Reasoning Group</td>
+    <td class="tg-yw4l">University of Oxford</td>
+    <td class="tg-yw4l">Prof. Ian Horrocks</td>
+    <td class="tg-yw4l">UK</td>
+    <td class="tg-yw4l">https://www.cs.ox.ac.uk/isg/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Stanford NLP Group</td>
+    <td class="tg-yw4l">Stanford University</td>
+    <td class="tg-yw4l">Prof. Christopher Manning</td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">https://nlp.stanford.edu/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Lab of Robotics Oriented Intelligence</td>
+    <td class="tg-yw4l">Fudan University</td>
+    <td class="tg-yw4l">Prof. Wenqiang Zhang</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">http://www.fudanroilab.com/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Sentic Team</td>
+    <td class="tg-yw4l">Nanyang Technological University</td>
+    <td class="tg-yw4l">Prof. Erik Cambria</td>
+    <td class="tg-yw4l">SG</td>
+    <td class="tg-yw4l">https://sentic.net/</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">Graph Research Lab</td>
+    <td class="tg-yw4l">Australian National University</td>
+    <td class="tg-yw4l">Dr. Qing Wang</td>
+    <td class="tg-yw4l">AU</td>
+    <td class="tg-yw4l">https://graphlabanu.github.io/</td>
   </tr>
  </table> 
 
