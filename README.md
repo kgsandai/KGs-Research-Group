@@ -406,7 +406,7 @@
     <td class="tg-yw4l">https://www.kcl.ac.uk/research/dai/</td>
   </tr>
   <tr>
-    td class="tg-yw4l">50</td>
+    <td class="tg-yw4l">50</td>
     <td class="tg-yw4l">Knowledge Acquisition & Machine Learning Lab</td>
     <td class="tg-yw4l">University of Barin</td>
     <td class="tg-yw4l">Prof. Floriana Esposito</td>
