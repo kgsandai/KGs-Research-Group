@@ -549,6 +549,30 @@
     <td class="tg-yw4l">DE</td>
     <td class="tg-yw4l">https://www.aifb.kit.edu/web/Web_Science/en/</td>
   </tr>
+    <tr>
+    <td class="tg-yw4l">68</td>
+    <td class="tg-yw4l">CNIC Big Data and Knowledge Engineering Research Group</td>
+    <td class="tg-yw4l">Computer Network Information Center Chinese Academy of Sciences</td>
+    <td class="tg-yw4l">Dr. Yuanchun Zhou</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">http://www.dviz.cn/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">69</td>
+    <td class="tg-yw4l">Research Center for Social Computing and Information Retrieval</td>
+    <td class="tg-yw4l">Harbin Institute of Technology</td>
+    <td class="tg-yw4l">Prof. BinQin</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">http://ir.hit.edu.cn/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">70</td>
+    <td class="tg-yw4l">Data Management Lab</td>
+    <td class="tg-yw4l">Peking University</td>
+    <td class="tg-yw4l">Prof. Lei Zou</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">https://mod.icst.pku.edu.cn/english/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
