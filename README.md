@@ -597,13 +597,21 @@
     <td class="tg-yw4l">AT</td>
     <td class="tg-yw4l">https://www.tugraz.at/institute/ist/research/group-wallner/</td>
   </tr>
-     <tr>
+   <tr>
     <td class="tg-yw4l">74</td>
     <td class="tg-yw4l">Database and Artificial Intelligence (DBAI) Group</td>
     <td class="tg-yw4l">Vienna University of Technology</td>
     <td class="tg-yw4l">Dr. Juliane Auerböck</td>
     <td class="tg-yw4l">AT</td>
     <td class="tg-yw4l">https://www.dbai.tuwien.ac.at/</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">75</td>
+    <td class="tg-yw4l">Semantic Systems Research Lab</td>
+    <td class="tg-yw4l">Vienna University of Technology</td>
+    <td class="tg-yw4l">Dr. Marta Sabou</td>
+    <td class="tg-yw4l">AT</td>
+    <td class="tg-yw4l">https://semantic-systems.org/</td>
   </tr>
  </table> 
 
