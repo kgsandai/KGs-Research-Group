@@ -573,6 +573,38 @@
     <td class="tg-yw4l">CN</td>
     <td class="tg-yw4l">https://mod.icst.pku.edu.cn/english/</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">71</td>
+    <td class="tg-yw4l">Dynamic and Distributed Information Systems Group</td>
+    <td class="tg-yw4l">University of Zurich</td>
+    <td class="tg-yw4l">Dr. Abraham Bernstein</td>
+    <td class="tg-yw4l">CH</td>
+    <td class="tg-yw4l">https://www.ifi.uzh.ch/en/ddis.html/</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">72</td>
+    <td class="tg-yw4l">Key Laboratory of Knowledge Engineering with Big Data</td>
+    <td class="tg-yw4l">Hefei University of Technology</td>
+    <td class="tg-yw4l">Prof. Xindong Wu</td>
+    <td class="tg-yw4l">CN</td>
+    <td class="tg-yw4l">https://lab.zhonghuapu.com/</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">73</td>
+    <td class="tg-yw4l">Knowledge Representation & Reasoning (KRR) Group</td>
+    <td class="tg-yw4l">Graz University of Technology</td>
+    <td class="tg-yw4l">Dr. Johannes Peter Wallner</td>
+    <td class="tg-yw4l">AT</td>
+    <td class="tg-yw4l">https://www.tugraz.at/institute/ist/research/group-wallner/</td>
+  </tr>
+     <tr>
+    <td class="tg-yw4l">74</td>
+    <td class="tg-yw4l">Database and Artificial Intelligence (DBAI) Group</td>
+    <td class="tg-yw4l">Vienna University of Technology</td>
+    <td class="tg-yw4l">Dr. Juliane Auerböck</td>
+    <td class="tg-yw4l">AT</td>
+    <td class="tg-yw4l">https://www.dbai.tuwien.ac.at/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
