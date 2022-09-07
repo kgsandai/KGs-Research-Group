@@ -613,6 +613,14 @@
     <td class="tg-yw4l">AT</td>
     <td class="tg-yw4l">https://semantic-systems.org/</td>
   </tr>
+    <tr>
+    <td class="tg-yw4l">76</td>
+    <td class="tg-yw4l">AI Health Lab</td>
+    <td class="tg-yw4l">University of Texas at Austin</td>
+    <td class="tg-yw4l">Prof. Ying Ding</td>
+    <td class="tg-yw4l">USA</td>
+    <td class="tg-yw4l">https://aihealth.ischool.utexas.edu/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
