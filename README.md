@@ -1,7 +1,7 @@
 # Knowledge Graph Research Group
 - This is a collection of knowledge graph research group all over the world, the list is in no particular sequence.
 
-[![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Research-Team?color=blue)
+[![CC BY 4.0][cc-by-shield]][cc-by] [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/github/last-commit/kgsandai/KGs-Research-Group?color=blue) ![Stars](https://img.shields.io/github/stars/kgsandai/KGs-Research-Group?color=blue)  ![Forks](https://img.shields.io/github/forkskgsandai/KGs-Research-Group?color=blue&label=Fork)
 
 <table class="tg">
   <tr>
