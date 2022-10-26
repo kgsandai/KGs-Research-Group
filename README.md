@@ -634,7 +634,7 @@
     <td class="tg-yw4l">Semantic Computing Group</td>
     <td class="tg-yw4l">Bielefeld University</td>
     <td class="tg-yw4l">Prof. Dr. Philipp Cimiano</td>
-    <td class="tg-yw4l">De</td>
+    <td class="tg-yw4l">DE</td>
     <td class="tg-yw4l">http://www.sc.cit-ec.uni-bielefeld.de/home/</td>
   </tr>
  </table> 
