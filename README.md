@@ -621,6 +621,22 @@
     <td class="tg-yw4l">USA</td>
     <td class="tg-yw4l">https://aihealth.ischool.utexas.edu/</td>
   </tr>
+    <tr>
+    <td class="tg-yw4l">77</td>
+    <td class="tg-yw4l">Knowledge-Based Systems Research Group</td>
+    <td class="tg-yw4l">Dresden University of Technology</td>
+    <td class="tg-yw4l">Prof. Dr. Markus Krötzsch</td>
+    <td class="tg-yw4l">DE</td>
+    <td class="tg-yw4l">https://iccl.inf.tu-dresden.de/web/Wissensbasierte_Systeme/en</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">78</td>
+    <td class="tg-yw4l">Semantic Computing Group</td>
+    <td class="tg-yw4l">Bielefeld University</td>
+    <td class="tg-yw4l">Prof. Dr. Philipp Cimiano</td>
+    <td class="tg-yw4l">De</td>
+    <td class="tg-yw4l">http://www.sc.cit-ec.uni-bielefeld.de/home/</td>
+  </tr>
  </table> 
 
 This work is licensed under a
